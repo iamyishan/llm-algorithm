@@ -1,9 +1,0 @@
-.idea
-*.pyc
-__pycache__
-migrations
-log/*
-venv
-log/log*
-files
-.env
